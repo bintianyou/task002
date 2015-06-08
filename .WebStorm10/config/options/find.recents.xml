@@ -1,0 +1,7 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>test.html</find>
+    </findStrings>
+  </component>
+</application>
